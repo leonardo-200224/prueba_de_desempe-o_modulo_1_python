@@ -2,9 +2,6 @@
 the system the student with data
 Simple Python Capplication that data the student text file.
 
-# Inventory System
-
-
 
 --
 
