@@ -1,11 +1,11 @@
-# Inventory
+# System student
 the system the student with data
 Simple Python Capplication that data the student text file.
 
 
 --
 
-##  Project Overview
+##  Project 
 This project is a console-based inventory system that allows you to manage student, age, and save/load data using CSV files.
 * Interactive menu
 * Add students
